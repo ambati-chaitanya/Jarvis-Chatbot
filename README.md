@@ -2,7 +2,7 @@
 
 A simple, interactive JavaScript-based chatbot designed to simulate a conversation assistant, "Jarvis." This chatbot uses HTML and JavaScript to create a responsive chat interface and handle user interactions in a fun and engaging way.
 
-![Jarvis Avatar](path/to/avatar.png) <!-- Replace with actual path in the repository -->
+![Jarvis Avatar](C:\Users\ambat\Downloads\Jarvis-Chatbot\Chatbot Jarvis\avatar.png) <!-- Replace with actual path in the repository -->
 
 
 ## Demo
