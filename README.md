@@ -7,7 +7,7 @@ A simple, interactive JavaScript-based chatbot designed to simulate a conversati
 
 ## Demo
 
-![Jarvis Animation](path/to/giphy.gif) <!-- Replace with actual path in the repository -->
+![Jarvis Animation](https://media2.giphy.com/media/wkSyGueYTnk40/200w.gif?cid=6c09b952t2bnel9agvv51ch0xfleuntcc8fvr492i4j0e1p0&ep=v1_gifs_search&rid=200w.gif&ct=g) <!-- Replace with actual path in the repository -->
 
 ## Features
 
